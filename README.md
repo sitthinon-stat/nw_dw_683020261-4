@@ -12,3 +12,8 @@
 xxx แทนชื่อ branch ที่จะสร้าง
 - switch branch
 `git switch` 
+- switch and make new branch
+`git switch -c xxx`
+xxx แทนชื่อ branch ที่จะสร้าง
+- check status
+`git status`
