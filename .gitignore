@@ -3,8 +3,8 @@
 venv/
 
 # ไฟล์ฐานข้อมูล DuuckDB - สร้างใหม่ได้จาก pipeline จึงไม่เก็บใน git 
-*.duckDB 
-*.duckDB.wal
+*.duckdb 
+*.duckdb.wal
 
 # สิ่งที่ dbt สร้างขึ้นเอง
 taget/
